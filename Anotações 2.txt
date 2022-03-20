@@ -1,0 +1,12 @@
+Codigo uteis no git bash:
+  git clone + link do git - serve para clonar o seu repositorio online, localmente na sua maquina
+  
+  git status - verificar o status da sua pasta local, se houve alguma alteração de arquivo, se há algum arquivo novo, ou se esta tudo okay com a pasta, sem alteração nenhuma
+  
+  cd + nome da pasta - entrar na pasta que esta no seu repositorio local
+  
+  git add . - informar ao git que pode reconhecer a nova pasta e adiciona-la no nosso repositorio
+  
+  git commit -m + "com alguma descrição dentro" - serve para enviar um descrição para o novo arquivo adicionado no repositorio online  
+  
+  git push origin main - adiciona no repositorio online juntamento com o commit feito anteriormente
